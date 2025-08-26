@@ -123,10 +123,12 @@ Our objective is to determine whether **tree-based models** (Random Forest, XGBo
 ---
 
 ## 👤 Author
-- **Aaysha Sheikh**  
+- **Aaysha Sheikh**
+- **Shruti Kondekar**
 - Project: *Comparative Analysis of Tree-Based Learning and Deep Learning Algorithms for STD Prediction*  
 - Year: 2025  
 - LinkedIn: www.linkedin.com/in/aaysha-sheikh-b1118123a
+
 
 
 
